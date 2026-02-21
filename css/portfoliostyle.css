@@ -15171,3 +15171,6 @@ body {
   transform: translateY(0);
 }
 
+#gitlink{
+    display: none;
+}
